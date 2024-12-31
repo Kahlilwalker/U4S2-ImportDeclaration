@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="U3S2-ImportDeclaration" />
+        <module name="U4S2-ImportDeclaration" />
       </profile>
     </annotationProcessing>
   </component>
